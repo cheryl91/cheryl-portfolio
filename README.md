@@ -1,2 +1,1 @@
-#Developed a predictive model using regression models and API calls in Python, to forecast airport infrastructure 
-#size requirements against socio-economic indicators (GDP and population) and geographical measures (temperature, elevation etc)
+Developed a predictive model using regression models and API calls in Python, to forecast airport infrastructure size requirements against socio-economic indicators (GDP and population) and geographical measures (temperature, elevation etc)
